@@ -1,7 +1,7 @@
 # CPEProject
-CPE 301 Semester Project 
-Section 1001, Group 28
+CPE 301 Semester Project \n
+Section 1001, Group 28 \n
 
-John Dieu
-Dan Liu
-Jennifer Trinh 
+John Dieu\n
+Dan Liu\n
+Jennifer Trinh\n
